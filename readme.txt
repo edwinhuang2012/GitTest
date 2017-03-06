@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick.
 This is switching between Master and feature1
 New change
+To test stash
