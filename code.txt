@@ -4,3 +4,4 @@ This is the third line.
 This is the forth line.
 Change for 'dev' branch.
 Conflict check
+Recreate dev branch
